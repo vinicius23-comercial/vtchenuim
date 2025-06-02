@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Vinicius Serviços Elétricos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Vinicius Serviços Elétricos</h1>
+        <nav>
+            <a href="#servicos">Serviços</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+    <main>
+        <section id="sobre">
+            <h2>Sobre Mim</h2>
+            <p>Sou Vinicius, eletricista profissional com experiência em manutenção, instalações e soluções elétricas para residências e empresas.</p>
+        </section>
+        <section id="servicos">
+            <h2>Serviços</h2>
+            <ul>
+                <li>Manutenção Elétrica</li>
+                <li>Instalações Elétricas Residenciais e Comerciais</li>
+                <li>Quadros de Distribuição</li>
+                <li>Outros serviços sob consulta</li>
+            </ul>
+        </section>
+        <section id="contato">
+            <h2>Contato Rápido</h2>
+            <div class="botoes-contato">
+                <a href="https://wa.me/5511954901911" target="_blank" class="botao whatsapp">WhatsApp</a>
+                <a href="tel:+5511954901911" class="botao telefone">Ligar</a>
+                <a href="mailto:vinicius.vtchenuim@outlook.com" class="botao email">E-mail</a>
+            </div>
+            <p>Ou preencha o <a href="mailto:vinicius.vtchenuim@outlook.com?subject=Orçamento">formulário de orçamento por e-mail</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Vinicius Serviços Elétricos. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
